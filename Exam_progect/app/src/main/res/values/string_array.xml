@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="codes_array">
+        <item>Українська</item>
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Exam_project</string>
+
+    <string name="title_codes">Криптограф</string>
+    <string name="title_diagram">Діаграма</string>
+    <string name="title_developer">Розробник</string>
+
+    <string name="button_code">Code</string>
+    <string name="button_decode">Decode</string>
+    <string name="hint_text">Text to code/decode</string>
+    <string name="radiobutton_caesarСipher">Цезар</string>
+    <string name="radiobutton_wordCode">Кодування слова</string>
+    <string name="toast_text_is_saved">Text is saved</string>
+    <string name="toast_text_is_copied">Text is copied</string>
+    <string name="hint_key_ceaser">Key (number)</string>
+    <string name="hint_key_wordcode_left">Key (word)</string>
+    <string name="hint_key_wordcode_right">Ключ для стовпчика(слово)</string>
+    <string name="hint_text_file">Choose file..</string>
+
+    //Profile
+    <string name="profile_fullname">Berezhniak Olha</string>
+    <string name="profile_email">o.berezhnyak@knu.ua</string>
+    <string name="profile_github">https://github.com/WithWings889</string>
+    <string name="profile_linkedn">https://www.linkedin.com/in/olha-berezhnyak-4b8833203/</string>
+    <string name="profile_telegram">\@with_wings</string>
+    <string name="profile_info">"Доброго дня! Я студентка 3 курсу кафедри ТТП-3. Цей додаток розроблено з любов'ю!"</string>
+
+    //PieChart
+    <string name="piechart_headline">Statistic</string>
+
+    // map
+    <string name="map_key" translatable="false">
+        AIzaSyDjWZaDoh4X763R8krOkIh15h8_K1ORSJM
+    </string>
+
+    //manual
+    <string name="manual_title_crypto">Berezhniak Olha</string>
+    <string name="manual_title_contacts">o.berezhnyak@knu.ua</string>
+    <string name="manual_title_dev">https://github.com/WithWings889</string>
+    <string name="manual_title_cities">https://www.linkedin.com/in/olha-berezhnyak-4b8833203/</string>
+
+    <string name="expandable_text_crypto">Berezhniak Olha</string>
+    <string name="expandable_text_contacts">o.berezhnyak@knu.ua</string>
+    <string name="expandable_text_dev">https://github.com/WithWings889</string>
+    <string name="expandable_text_cities">https://www.linkedin.com/in/olha-berezhnyak-4b8833203/</string>
+</resources>

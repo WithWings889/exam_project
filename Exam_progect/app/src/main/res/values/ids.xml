@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_code" type="id" />
+    <item name="spinner" type="id" />
+    <item name="editTextTextMultiLine" type="id" />
+    <item name="button_decode" type="id" />
+    <item name="button_filepicker" type="id" />
+    <item name="button_save" type="id" />
+    <item name="button_copy" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="radioButton_ceasar" type="id" />
+    <item name="radioButton_wordcode" type="id" />
+    <item name="editText_left" type="id" />
+    <item name="editText_right" type="id" />
+    <item name="textFile" type="id" />
+</resources>
